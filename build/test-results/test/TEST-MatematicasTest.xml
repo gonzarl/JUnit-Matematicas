@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatematicasTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-09T19:14:52" hostname="LAPTOP-77FA9AJE" time="0.025">
+  <properties/>
+  <testcase name="testParConNumeroImpar()" classname="MatematicasTest" time="0.015"/>
+  <testcase name="testFibonacciConCuatro()" classname="MatematicasTest" time="0.001"/>
+  <testcase name="testFibonacciConCero()" classname="MatematicasTest" time="0.001"/>
+  <testcase name="testFactorialConCuatro()" classname="MatematicasTest" time="0.001"/>
+  <testcase name="testFactorialConNegativo()" classname="MatematicasTest" time="0.001"/>
+  <testcase name="testFactorialConUno()" classname="MatematicasTest" time="0.001"/>
+  <testcase name="testParConNumeroPar()" classname="MatematicasTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
